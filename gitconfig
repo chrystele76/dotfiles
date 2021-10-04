@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = csavatofski@yahoo.fr
+	name = chrystele funk
